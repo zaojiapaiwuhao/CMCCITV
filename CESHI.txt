@@ -1,4 +1,4 @@
-央视频道，#genre#
+央视频道,#genre#
 CCTV1 4K http://ott.mobaibox.com/PLTV/1/224/3221227896/1.m3u8
 CCTV2 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228300/1.m3u8
 CCTV3 4K http://ott.mobaibox.com/PLTV/1/224/3221228499/1.m3u8
@@ -17,7 +17,7 @@ CCTV14 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221227656/1.m3u8
 CCTV15 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228404/1.m3u8
 CCTV16 4K http://ott.mobaibox.com/PLTV/1/224/3221228127/1.m3u8
 CCTV17 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228407/1.m3u8
-卫视频道，#genre#
+卫视频道,#genre#
 江苏卫视 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228306/1.m3u8
 北京卫视 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228410/1.m3u8
 东方卫视 HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228425/1.m3u8
