@@ -164,7 +164,7 @@ NewTV精品萌宠,http://ott.mobaibox.com/PLTV/1/224/3221228430/1.m3u8
 凤凰资讯台,http://ott.mobaibox.com/PLTV/1/224/3221228524/1.m3u8
 凤凰卫视中文台,http://ott.mobaibox.com/PLTV/1/224/3221228527/1.m3u8
 4KUHD,http://ott.mobaibox.com/PLTV/1/224/3221227506/1.m3u8
-4KUHD,http://ott.mobaibox.com/PLTV/1/224/3221228242/1.m3u8
+4KUHD1,http://ott.mobaibox.com/PLTV/1/224/3221228242/1.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/1/224/3221228141/1.m3u8
 8KSuperUHD,http://ott.mobaibox.com/PLTV/1/224/3221228132/1.m3u8
  其他省地方频道,#genre#
